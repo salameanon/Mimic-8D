@@ -20,8 +20,6 @@ A) Since the slider for balancing lives in system preferences, closing the windo
 Q) It doesn't let me open the installer because it's from an unkown developer. What does that mean and what should I do?
 
 A) If you try to open an app that isn't registered with Apple by an identified developer, you get a warning dialog, and your mac won't let you open the app. While it's true I could have put malicious code into these apps, you can look at the code yourself before running Mimic8D, or StopMimic by opening them in automator.
-**To bypass this, either control+click (right click) either app and select "open" from the popout menu. Another way is to open system preferences, go to "Security and Privacy" and press "Open anyway."**
-
-## This is an <h2> tag
+## To bypass this, either control+click (right click) either app and select "open" from the popout menu. Another way is to open system preferences, go to "Security and Privacy" and press "Open anyway."
 
 ---MORE COMING SOON???---
