@@ -50,6 +50,14 @@ Fake8D - Moves audio left and right slowly, and works best with headphones.
 
 Jump - This option moves audio left and right much faster, (given the name jump) and in my opinion works best with internal/external stereo speakers.
 
-Skip - 
+Skip - I'm not sure why this is an option, although it's here... All it does is switch between Left/Right extremly fast. It almost feels like you are listening to the radio in a car with a window open as it makes the shaking voice sound...
+
+"---" - They don't do anything. They are just seperators.
+
+Help - Directs you to this readme.md. Mmight add a built in FAQ later on.
+
+"---" - Another seperator
+
+Stop - Provides a download link to StopMimic if you deleted it. Also provides the menu bar method of stopping Mimic8D
 
 ---MORE COMING SOON???---
