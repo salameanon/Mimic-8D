@@ -11,3 +11,5 @@ A) Mimic8D works by changing the left and right balance of you speakers (or head
 Q) Why do I need to keep the system preferences window open when I use Mimic8D?
 
 A) Since the slider for balancing lives in system preferences, closing the window, or even switching to fullscreen in an app, essentially hides the app from view. All you have to do is keep the sound pane of system preferences open in the background.
+
+---MORE COMING SOON???---
