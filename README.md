@@ -22,4 +22,6 @@ Q) It doesn't let me open the installer because it's from an unkown developer. W
 A) If you try to open an app that isn't registered with Apple by an identified developer, you get a warning dialog, and your mac won't let you open the app. While it's true I could have put malicious code into these apps, you can look at the code yourself before running Mimic8D, or StopMimic by opening them in automator.
 **To bypass this, either control+click (right click) either app and select "open" from the popout menu. Another way is to open system preferences, go to "Security and Privacy" and press "Open anyway."**
 
+###### This is an <h6> tag
+
 ---MORE COMING SOON???---
