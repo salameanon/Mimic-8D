@@ -44,7 +44,7 @@ A) This has happened to me before, only when running the script from Automator d
 
 Currently, upon opening Mimic8D, there will be different options that you can choose from. 
 
-![alt text](https://github.com/salameanon/Mimic-8D/blob/main/ExampleModes.png?raw=true)
+![alt text](https://github.com/salameanon/Mimic-8D/blob/main/resources/ExampleModes.png?raw=true)
 
 ###### Each provides a different listening experience with the exception of the Help and Stop options.
 
