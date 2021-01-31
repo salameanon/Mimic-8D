@@ -1,6 +1,8 @@
 # Mimic-8D:
 ## A VERY simple applescript/automator application that adjusts left and right audio balance to provide a real time, system audio "8D" experience.
 ###### StopMimic is an additional (also bundled) script/application that provides an easy way to stop and revert the Mimic8D audio effects.
+#### Upcoming - Report/Suggest feature
+
 
 FAQ:
 
