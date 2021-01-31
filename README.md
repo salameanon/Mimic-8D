@@ -31,10 +31,25 @@ A) To do this, you will need to open Mimic8D in Automator. (Automator>Open Exist
 
 ------------------------------------------------------------------
 
+Q) Why does it sometimes randomly stop?
+
+A) This has happened to me before, only when running the script from Automator directly. I had to constantly click the application icon to get it to resume. 
+###### Don't run Mimic8D directly from Automator...
+
+------------------------------------------------------------------
+
 # Modes:
 
-Upon opening Mimic8D, there will be different options that you can choose from. 
+Currently, upon opening Mimic8D, there will be different options that you can choose from. 
 
 ![alt text](https://github.com/salameanon/Mimic-8D/blob/main/ExampleModes.png?raw=true)
+
+###### Each provides a different listening experience with the exception of the Help and Stop options.
+
+Fake8D - Moves audio left and right slowly, and works best with headphones.
+
+Jump - This option moves audio left and right much faster, (given the name jump) and in my opinion works best with internal/external stereo speakers.
+
+Skip - 
 
 ---MORE COMING SOON???---
