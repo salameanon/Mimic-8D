@@ -35,4 +35,6 @@ A) To do this, you will need to open Mimic8D in Automator. (Automator>Open Exist
 
 Upon opening Mimic8D, there will be different options that you can choose from. 
 
+![alt text](https://github.com/salameanon/Mimic-8D/blob/main/ExampleModes.png?raw=true)
+
 ---MORE COMING SOON???---
