@@ -1,10 +1,96 @@
-# Mimic-8D:
+# Mimic-8D
+
 ## A VERY simple applescript/automator application that adjusts left and right audio balance to provide a real time, system audio "8D" experience.
-###### StopMimic is an additional (also bundled) script/application that provides an easy way to stop and revert the Mimic8D audio effects.
-#### Upcoming - Report/Suggest feature
 
+---
 
-FAQ:
+![image](https://user-images.githubusercontent.com/5051300/85926574-ebfb9d80-b8d2-11ea-836b-28e38d1f3447.png)
+
+---
+
+# TUTORIAL:
+
+---
+
+### 1. Download and install the latest release of Mimic8D from here: https://github.com/salameanon/Mimic-8D/releases
+
+###### Make sure you either Control+Click (Right click) the package and press "Open" to bypass the unknown developer message. Alternatively, you can open Settings, go to Security and Privacy, and press "Open Anyway." Do **NOT** move Mimic8D to the trash.
+
+### 2. Run any mode from Mimic8D and when it prompts you, allow it accessibility access. (Only for first time users)
+
+### 3. Run Mimic8D and choose from one of the options - simple as that!
+
+---
+
+# MODES:
+
+------------------------------------------------------------------
+
+#### Custom Image 📁 
+##### Allows you to choose a custom image to be resized and fitted to BigSur's app shape, and then applied to your app of choice.
+
+------------------------------------------------------------------
+
+#### iOS AppStore Icon Downloader 🛍
+##### Allows you to search the iOS AppStore for an icon matching your app choice's name. If no (relevant) results are found, your app will be resized with a white boarder surrounding it.
+###### For example, if I choose "Zoom" as my app choice, IconSur will look through the iOS's AppStore for an app called "Zoom" and then apply its icon to the "Zoom" app on my Mac.
+
+------------------------------------------------------------------
+
+#### Resize Current App Icon 🤏
+##### Takes the chosen app and resizes it with a white border to fit BigSur's icon shape. 
+###### Custom colors probably coming soon unless I forget about this project...
+
+------------------------------------------------------------------
+
+#### Modify a System App Copy 📝
+##### Since you can't modify System Apps due to the root volume being Read-Only, this feature allows you to make a copy of the System app and modify the icon.
+###### For example, if you choose "AppStore" and try to change it's icon, this option will make a COPY of it and modify its icon since you can't modify system icons. From there you can proceed to drag that icon to your dock, launchpad, etc. This is also useful if you don't have administrator permissions on your user account and want to have custom icons.
+
+------------------------------------------------------------------
+
+#### Extract App Icon 🔍
+##### (NOT MADE BY ME) Asks the user (you) to select an app, them extracts any icon files (.icns) and copies them into a folder created on the Desktop.
+###### If there are multiple .icns files, you will be prompted to choose which ones you want to extract. Additionally you can convert the .icns file to the .png format.
+
+------------------------------------------------------------------
+
+#### Refresh Icon Cache 🌀
+##### Reloads Dock & Finder to forcefully update new app icons
+###### This happens automatically after every modification to an app icon made using IconSurGUI
+
+------------------------------------------------------------------
+
+#### Reset App Icon 🔙
+##### Removes any custom icon the selected app has and replaces it with the .icns file inside of it's resources folder
+
+------------------------------------------------------------------
+
+#### Help ❓
+##### Brings you to this README.md file
+###### A possible built in FAQ section might come in a future version...
+
+------------------------------------------------------------------
+
+#### Download BigSur Icons ⬇️
+##### Redirects to a HUGE collection of community made BigSur icons at https://macosicons.com/
+###### THIS ISN'T MADE BY ME!!
+
+------------------------------------------------------------------
+
+#### Delete IconSur 🚫
+##### A built in option to remove IconSurGUI
+###### This won't affect any custom icons on your apps.
+
+------------------------------------------------------------------
+
+#### Submit Feedback 📩
+##### Directs you to issue report templates where you can submit feedback, report a bug, request a feature, etc.
+###### You need a GitHub account to access these templates and submit feedback.
+
+------------------------------------------------------------------
+
+# FAQ:
 
 ------------------------------------------------------------------
 
@@ -39,27 +125,3 @@ A) This has happened to me before, only when running the script from Automator d
 ###### Don't run Mimic8D directly from Automator...
 
 ------------------------------------------------------------------
-
-# Modes:
-
-Currently, upon opening Mimic8D, there will be different options that you can choose from. 
-
-![alt text](https://github.com/salameanon/Mimic-8D/blob/main/resources/ExampleModes.png?raw=true)
-
-###### Each provides a different listening experience with the exception of the Help and Stop options.
-
-Fake8D - Moves audio left and right slowly, and works best with headphones.
-
-Jump - This option moves audio left and right much faster, (given the name jump) and in my opinion works best with internal/external stereo speakers.
-
-Skip - I'm not sure why this is an option, although it's here... All it does is switch between Left/Right extremly fast. It almost feels like you are listening to the radio in a car with a window open as it makes the shaking voice sound...
-
-"---" - They don't do anything. They are just seperators.
-
-Help - Directs you to this readme.md. Mmight add a built in FAQ later on.
-
-"---" - Another seperator
-
-Stop - Provides a download link to StopMimic if you deleted it. Also provides the menu bar method of stopping Mimic8D
-
----MORE COMING SOON???---
