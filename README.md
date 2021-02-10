@@ -38,9 +38,9 @@
 
 ------------------------------------------------------------------
 
-#### Resize Current App Icon 🤏
-##### Takes the chosen app and resizes it with a white border to fit BigSur's icon shape. 
-###### Custom colors probably coming soon unless I forget about this project...
+#### Skip ⏭ 
+##### Switches from L/R incredibly fast. Might give some a headache
+###### Might damage your headphones!!
 
 ------------------------------------------------------------------
 
@@ -56,38 +56,9 @@
 
 ------------------------------------------------------------------
 
-#### Refresh Icon Cache 🌀
-##### Reloads Dock & Finder to forcefully update new app icons
+#### Reset Audio Balance 🛑 
+##### Opens System Preferences and resets the L/R audio balance back to default.
 ###### This happens automatically after every modification to an app icon made using IconSurGUI
-
-------------------------------------------------------------------
-
-#### Reset App Icon 🔙
-##### Removes any custom icon the selected app has and replaces it with the .icns file inside of it's resources folder
-
-------------------------------------------------------------------
-
-#### Help ❓
-##### Brings you to this README.md file
-###### A possible built in FAQ section might come in a future version...
-
-------------------------------------------------------------------
-
-#### Download BigSur Icons ⬇️
-##### Redirects to a HUGE collection of community made BigSur icons at https://macosicons.com/
-###### THIS ISN'T MADE BY ME!!
-
-------------------------------------------------------------------
-
-#### Delete IconSur 🚫
-##### A built in option to remove IconSurGUI
-###### This won't affect any custom icons on your apps.
-
-------------------------------------------------------------------
-
-#### Submit Feedback 📩
-##### Directs you to issue report templates where you can submit feedback, report a bug, request a feature, etc.
-###### You need a GitHub account to access these templates and submit feedback.
 
 ------------------------------------------------------------------
 
