@@ -26,14 +26,15 @@
 
 ------------------------------------------------------------------
 
-#### Custom Image 📁 
-##### Allows you to choose a custom image to be resized and fitted to BigSur's app shape, and then applied to your app of choice.
+#### Fake8D 🎧 
+##### The Default mode for Mimic8D. Feels like the average speed when switching from left/right that most 8D youtube videos use.
+###### This mode works best with headphones. It may feel too slow for ordinary speakers.
 
 ------------------------------------------------------------------
 
-#### iOS AppStore Icon Downloader 🛍
-##### Allows you to search the iOS AppStore for an icon matching your app choice's name. If no (relevant) results are found, your app will be resized with a white boarder surrounding it.
-###### For example, if I choose "Zoom" as my app choice, IconSur will look through the iOS's AppStore for an app called "Zoom" and then apply its icon to the "Zoom" app on my Mac.
+#### Jump 🔈 
+##### Rotates from left/right channels faster, given the name "Jump"
+###### This mode is more fitted for regular speakers that aren't in-ear
 
 ------------------------------------------------------------------
 
