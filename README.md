@@ -4,7 +4,7 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/5051300/85926574-ebfb9d80-b8d2-11ea-836b-28e38d1f3447.png)
+![image](https://github.com/salameanon/Mimic-8D/blob/main/resources/Mimic8D.png)
 
 ---
 
