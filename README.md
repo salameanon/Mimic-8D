@@ -24,76 +24,66 @@
 
 # MODES:
 
-------------------------------------------------------------------
+---
 
 #### Fake8D 🎧 
 ##### The Default mode for Mimic8D. Feels like the average speed when switching from left/right that most 8D youtube videos use.
 ###### This mode works best with headphones. It may feel too slow for ordinary speakers.
 
-------------------------------------------------------------------
+---
 
 #### Jump 🔈 
 ##### Rotates from left/right channels faster, given the name "Jump"
 ###### This mode is more fitted for regular speakers that aren't in-ear
 
-------------------------------------------------------------------
+---
 
 #### Skip ⏭ 
 ##### Switches from L/R incredibly fast. Might give some a headache
 ###### Might damage your headphones!!
 
-------------------------------------------------------------------
+---
 
-#### Modify a System App Copy 📝
-##### Since you can't modify System Apps due to the root volume being Read-Only, this feature allows you to make a copy of the System app and modify the icon.
-###### For example, if you choose "AppStore" and try to change it's icon, this option will make a COPY of it and modify its icon since you can't modify system icons. From there you can proceed to drag that icon to your dock, launchpad, etc. This is also useful if you don't have administrator permissions on your user account and want to have custom icons.
+#### Custom 🔛
+##### Allows you to set a custom delay for L/R audio switching.
 
-------------------------------------------------------------------
+---
 
-#### Extract App Icon 🔍
-##### (NOT MADE BY ME) Asks the user (you) to select an app, them extracts any icon files (.icns) and copies them into a folder created on the Desktop.
-###### If there are multiple .icns files, you will be prompted to choose which ones you want to extract. Additionally you can convert the .icns file to the .png format.
+#### Help ❓
+##### Brings you to this README.md file
 
-------------------------------------------------------------------
+---
+
+#### Delete Mimic8D & StopMimic 🚫
+##### A built in option to delete Mimic8D & StopMimic
+
+---
 
 #### Reset Audio Balance 🛑 
 ##### Opens System Preferences and resets the L/R audio balance back to default.
 ###### This happens automatically after every modification to an app icon made using IconSurGUI
 
-------------------------------------------------------------------
+---
 
 # FAQ:
 
-------------------------------------------------------------------
+---
 
 Q) Why do I need to give Mimic8D Accessability Permissions?
 
 A) Mimic8D works by changing the left and right balance of you speakers (or headphones) in system preferences for you. In other words, it drags the slider back and forth for you which requires permissions to control your computer.
 
-------------------------------------------------------------------
+---
 
 Q) Why do I need to keep the system preferences window open when I use Mimic8D?
 
 A) Since the slider for balancing lives in system preferences, closing the window, or even switching to fullscreen in an app, essentially hides the app from view. All you have to do is keep the sound pane of system preferences open in the background.
 
-------------------------------------------------------------------
+---
 
 Q) It doesn't let me open the installer because it's from an unkown developer. What does that mean and what should I do?
 
 A) If you try to open an app that isn't registered with Apple by an identified developer, you get a warning dialog, and your mac won't let you open the app. While it's true I could have put malicious code into these apps, you can look at the code yourself before running Mimic8D, or StopMimic by opening them in automator.
 ###### To bypass this, either control+click (right click) either app and select "open" from the popout menu. Another way is to open system preferences, go to "Security and Privacy" and press "Open anyway."
 
-------------------------------------------------------------------
-
-Q) How do I get rid of the System Preferences prompt that appears every time I launch Mimic8D?
-
-A) To do this, you will need to open Mimic8D in Automator. (Automator>Open Existing Document>Mimic8D) Once you have Mimic 8D opened, delete all code starting from **"## Delete from here until it says "STOP HERE" to get rid of the prompt about system preferences."** up until **"## STOP HERE ## STOP HERE ##"**
-
-------------------------------------------------------------------
-
-Q) Why does it sometimes randomly stop?
-
-A) This has happened to me before, only when running the script from Automator directly. I had to constantly click the application icon to get it to resume. 
-###### Don't run Mimic8D directly from Automator...
-
-------------------------------------------------------------------
+---
