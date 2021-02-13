@@ -27,9 +27,8 @@
 ---
 
 #### Fake8D 🎧 
-##### The Default mode for Mimic8D. Feels like the average speed when switching from left/right that most 8D youtube videos use.
-###### This mode works best with headphones. It may feel too slow for ordinary speakers.
-
+##### Default mode for Mimic8D. Feels like the average speed when switching from left/right that most 8D youtube videos use.
+###### This mode works best with headphones. It may feel too slow for ordinary stereo speakers
 ---
 
 #### Jump 🔈 
